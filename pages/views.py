@@ -4,7 +4,7 @@ from django.views.generic import TemplateView
 
 
 
-#def home_page_view(request):
+# def home_page_view(request):
 #   return HttpResponse("Hello, World!")
 
 class HomePageView(TemplateView):
